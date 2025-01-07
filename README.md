@@ -6,6 +6,6 @@
 
 ## Gemini AI
 
-* cook book
+* [cook book](https://github.com/google-gemini/cookbook)
 
-* 
+  
