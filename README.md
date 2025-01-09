@@ -5,7 +5,8 @@
 
 ## Options
 
-* crewai.com ?? 
+* crewai.com ??
+* not diamond .com 
 
 ## Gemini AI
 
