@@ -2,7 +2,10 @@
 
 * https://huggingface.co/blog/smolagents
 * https://www.anthropic.com/research/building-effective-agents
-* 
+
+## Options
+
+* crewai.com ?? 
 
 ## Gemini AI
 
