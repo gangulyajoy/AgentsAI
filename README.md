@@ -11,7 +11,7 @@
 
 ## Options
 
-* crewai.com ??
+* [crewai.com](https://www.crewai.com)
 * not diamond .com 
 
 ## Gemini AI
