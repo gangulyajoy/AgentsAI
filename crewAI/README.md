@@ -7,7 +7,7 @@
 
 ## Examples with crewai
 
-* crewai
+* crewai (https://www.crewai.com/open-source)
 
 ## Concepts
 
