@@ -12,7 +12,7 @@
 ## Concepts
 
 * marine biologist analogy
-* slack from peopleSoft
+* slack from salesforce
 
 ## LLMs as AI agents
 
