@@ -14,3 +14,10 @@
 * marine biologist analogy
 * slack from peopleSoft
 
+## LLMs as AI agents
+
+* chatGPT 4 (API)
+* qwen (HF smolagents)
+* llama 3.2 (ollama local API)
+* 
+
