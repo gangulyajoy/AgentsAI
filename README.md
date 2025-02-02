@@ -10,7 +10,8 @@
 
 ## How to Build Effective AI Agents in Pure Python 
 
-* https://www.youtube.com/watch?v=Tq_cmN4j2yY
+* https://www.youtube.com/watch?v=bZzyPscbtI8
+* 
 
 ## Options
 
