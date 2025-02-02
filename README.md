@@ -2,7 +2,7 @@
 
 * ( Agents )
 
-## Agents AI
+## Agents AI - Definitions
 
 * https://huggingface.co/blog/smolagents
 * https://www.anthropic.com/research/building-effective-agents
@@ -16,7 +16,11 @@
 ## Options
 
 * [crewai.com](https://www.crewai.com)
-* not diamond .com 
+* not diamond .com
+
+## Repos of AI agent related subjects such as tools, etc
+
+* https://github.com/ALucek?tab=repositories&q=&type=&language=&sort=stargazers
 
 ## Gemini AI
 
