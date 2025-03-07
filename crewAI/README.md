@@ -5,6 +5,11 @@
 * AIML 
 * AI agents
 
+## Ollama
+
+* $ ollama run llama3.2
+  
+
 ## Examples with crewai
 
 * crewai (https://www.crewai.com/open-source)
