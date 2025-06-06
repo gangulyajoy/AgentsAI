@@ -171,7 +171,7 @@ from smolagents import SmolAgent
 
 ## 👋 About
 
-Maintained by [Ricardo Calix](https://www.rcalix.com), author and AI consultant. This repository supports interactive workshops and masterclasses on **AI without code**. Contact: rcalix@rcalix.com
+Maintained by [Ricardo Calix](https://www.rcalix.com), author and AI consultant. This repository supports interactive workshops and masterclasses on **AI Agents**. Contact: rcalix@rcalix.com
 
 ## 📘 Featured Book 
 
