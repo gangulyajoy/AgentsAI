@@ -1,6 +1,8 @@
 # The Future of Gen AI: Tools and media 
 
 * ( Agents )
+* AGS
+* 
 
 ## Agents AI - Definitions
 
